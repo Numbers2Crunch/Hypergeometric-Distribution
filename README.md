@@ -1,7 +1,6 @@
-# Hypergeometry
-Using Scipy Hypergeometry in Python
+# Hypergeometric Distribution
+Using Scipy's Hypergeometric Distribution
 
-This is a simple demonstration of the hypergeometry function in Sci-py.
 The graphs assume there are 260 working days in the year and the subject is known to turn up 12 times drunk the year. This show the chances of catching them depending on the number of tests in a single year.
 
 
