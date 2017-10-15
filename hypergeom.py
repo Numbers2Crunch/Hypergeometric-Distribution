@@ -2,7 +2,7 @@
 from scipy.stats import hypergeom
 import matplotlib.pyplot as plt
 import numpy as np
-
+ 
 """
 The problem is: we want to know how likely we are to catch an employee
 turning up to work drunk depending on the number of tests during the year.
